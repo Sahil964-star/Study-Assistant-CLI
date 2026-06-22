@@ -160,6 +160,18 @@ __pycache__/
 
 ---
 
+
+## Screenshots
+
+### Weather Output
+
+![Output-1](weather_output_1.png)
+![Output-2](weather_output_2.png)
+![Output-3](weather_output_3.png)
+
+
+---
+
 ## Future Improvements
 
 * Save chat history
