@@ -38,7 +38,7 @@ print("📚 AI STUDY ASSISTANT CLI")
 print("Type 'quit' or 'exit' anytime to end.")
 print("=" * 50)
 
-topic = input("\nEnter a topic to study: ")
+topic = input("\nEnter any topic you want to study : ")
 
 study_prompt = f"""
 {SYSTEM_PROMPT}
@@ -48,7 +48,7 @@ Create a study plan for:
 """
 
 response = client.models.generate_content(
-    model="gemini-2.0-flash-preview",
+    model="gemini-2.5-flash",
     contents=study_prompt
 )
 
@@ -85,7 +85,7 @@ while True:
     conversation_context += f"user: {user_input}"
 
     response = client.models.generate_content(
-        model="gemini-2.0-flash-preview",
+        model="gemini-2.5-flash",
         contents=f"{SYSTEM_PROMPT}\n\n{conversation_context}"
     )
 
