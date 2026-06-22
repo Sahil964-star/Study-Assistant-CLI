@@ -1,4 +1,4 @@
-# 📚 AI Study Assistant CLI
+# AI Study Assistant CLI
 
 A command-line AI-powered Study Assistant built using Python and Google's Gemini API. The assistant helps students create structured study plans, understand topics, and ask follow-up questions interactively.
 
@@ -90,7 +90,7 @@ python main.py
 
 ```text
 ==================================================
-📚 AI STUDY ASSISTANT CLI
+AI STUDY ASSISTANT CLI
 ==================================================
 
 Enter a topic to study:
@@ -163,7 +163,7 @@ __pycache__/
 
 ## Screenshots
 
-### Weather Output
+### Outputs
 
 ![Output-1](output_1.png)
 ![Output-2](output_2.png)
