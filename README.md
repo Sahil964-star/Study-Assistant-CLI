@@ -165,9 +165,9 @@ __pycache__/
 
 ### Weather Output
 
-![Output-1](weather_output_1.png)
-![Output-2](weather_output_2.png)
-![Output-3](weather_output_3.png)
+![Output-1](output_1.png)
+![Output-2](output_2.png)
+![Output-3](output_3.png)
 
 
 ---
