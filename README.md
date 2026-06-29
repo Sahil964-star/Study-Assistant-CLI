@@ -34,7 +34,7 @@ Study-Assistant-CLI/
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sahil964-star/Study-Assistant-CLI
 cd Study-Assistant-CLI
 ```
 
